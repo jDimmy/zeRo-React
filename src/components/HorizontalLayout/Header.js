@@ -19,7 +19,6 @@ import logoDark from "../../assets/images/logo-dark.png";
 
 import Navbar from "./Navbar";
 
-//i18n
 import { withTranslation } from "react-i18next";
 
 const Header = (props) => {
